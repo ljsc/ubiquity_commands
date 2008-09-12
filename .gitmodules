@@ -1,0 +1,3 @@
+[submodule "commands/github"]
+	path = commands/github
+	url = git://gist.github.com/10442.git

@@ -1,0 +1,5 @@
+h1. Ubiquity Commands
+
+Just a bunch of "Ubiquity":https://wiki.mozilla.org/Labs/Ubiquity commands
+I've been hacking on.
+
